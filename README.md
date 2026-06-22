@@ -1,0 +1,2 @@
+# analiza
+analiza danych
