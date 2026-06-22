@@ -3,5 +3,6 @@ analiza danych
 
 
 
-##Dopisuje zmianę
-Halo zmiana
+##Dopisuje zmian
+
+I jeszcze jedna
