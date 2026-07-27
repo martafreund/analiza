@@ -28,7 +28,8 @@ Projekt obejmuje następujące etapy:
 ├── netflix_cleaning.ipynb   # główny notebook z analizą danych
 ├── netflix_titles.csv       # zbiór danych
 └── README.md                # opis projektu
-```## Przeprowadzone analizy
+```
+## Przeprowadzone analizy
  
 W projekcie wykonano następujące analizy:
  
@@ -51,7 +52,7 @@ Projekt zawiera wykresy przedstawiające:
  
 - liczbę filmów i seriali,
 - rozkład kategorii wiekowych,
-- liczbę produkcji według krajów,s
+- liczbę produkcji według krajów,
 - liczbę produkcji według roku wydania.
 
 ## Wnioski
