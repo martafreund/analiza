@@ -21,15 +21,13 @@ Projekt obejmuje następujące etapy:
 - NumPy
 - Matplotlib
 - Seaborn
-
- ### Struktura projektu
-
-| Plik / Folder | Opis |
-| :--- | :--- |
-| 📄 `netflix_cleaning.ipynb` | Główny notebook z analizą danych. |
-| 📊 `netflix_titles.csv` | Źródłowy zbiór danych (dataset). |
-| 📝 `README.md` | Opis projektu i instrukcja uruchomienia. |
-
+ ## Struktura projektu
+ 
+```
+.
+├── netflix_cleaning.ipynb   # główny notebook z analizą danych
+├── netflix_titles.csv       # zbiór danych
+└── README.md                # opis projektu
 ```## Przeprowadzone analizy
  
 W projekcie wykonano następujące analizy:
@@ -53,7 +51,7 @@ Projekt zawiera wykresy przedstawiające:
  
 - liczbę filmów i seriali,
 - rozkład kategorii wiekowych,
-- liczbę produkcji według krajów,s
+- liczbę produkcji według krajów,
 - liczbę produkcji według roku wydania.
 
 ## Wnioski
