@@ -21,14 +21,15 @@ Projekt obejmuje następujące etapy:
 - NumPy
 - Matplotlib
 - Seaborn
+
  ## Struktura projektu
  
-```
-.
-├── netflix_cleaning.ipynb   # główny notebook z analizą danych
-├── netflix_titles.csv       # zbiór danych
-└── README.md                # opis projektu
-```## Przeprowadzone analizy
+| Plik / Folder | Opis |
+| :--- | :--- |
+| 📄`netflix_cleaning.ipynb` | Główny notebook z analizą danych. |
+| 📊 `netflix_titles.csv` | Źródłowy zbiór danych (dataset). |
+| 📝 `README.md` | Opis projektu i instrukcja uruchomienia. |
+## Przeprowadzone analizy
  
 W projekcie wykonano następujące analizy:
  
