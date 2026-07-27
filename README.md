@@ -59,16 +59,16 @@ Projekt zawiera wykresy przedstawiające:
  
 Na podstawie przeprowadzonej analizy stwierdzono, że:
  
-- większość produkcji stanowią filmy,
+- większość produkcji stanowią filmy (69,69% całego zbioru katalogu platformy Netflix),
 - najczęściej występującą kategorią wiekową jest **TV-MA**,
-- największa liczba produkcji pochodzi ze Stanów Zjednoczonych,
-- większość produkcji została wyprodukowana po 2010 roku.
+- największa liczba produkcji pochodzi ze Stanów Zjednoczonych (41.86% wszystkich dostępnych produkcji),
+- większość produkcji została wyprodukowana po 2010 roku (84.85% wszystkich udostępnionych w serwisie produkcji).
 
 ## Autorzy
  
 Projekt został wykonany w ramach zajęć z analizy danych.
  
-Marta Freund 
-Magdalena Bałys
-Mateusz Strzeszak
-Julia Giers
+- Marta Freund 
+- Magdalena Bałys
+- Mateusz Strzeszak
+- Julia Giers
